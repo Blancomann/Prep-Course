@@ -98,6 +98,14 @@ function agregarMetodo() {
 
 
 
+class nombrecualquiera{
+  constructor(/*parametros/ valores*/){
+    //creas las propiedades de la clase CON THIS!!!!!!!!!!
+  }
+  //FUNCIONES
+}
+
+
 // No modificar nada debajo de esta línea
 // --------------------------------
 
